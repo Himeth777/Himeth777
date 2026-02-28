@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="270" viewBox="0 0 400 270">
+  <defs>
+    <style>
+      .card-bg { fill: #0D1117; stroke: #70a5fd; stroke-width: 1; rx: 10; }
+      .title { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+      .stat-label { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9b1d6; }
+      .stat-value { font: 700 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; text-anchor: end; }
+      .icon { font-size: 16px; }
+    </style>
+  </defs>
+  <rect class="card-bg" x="0.5" y="0.5" width="399" height="269" rx="10"/>
+  <text x="25" y="40" class="title">Himeth's GitHub Stats</text>
+  <line x1="25" y1="55" x2="375" y2="55" stroke="#70a5fd" stroke-width="0.5" opacity="0.5"/>
+  
+    <g transform="translate(25, 80)">
+      <text x="0" y="0" class="icon">⭐</text>
+      <text x="28" y="0" class="stat-label">Total Stars:</text>
+      <text x="260" y="0" class="stat-value">42</text>
+    </g>
+    <g transform="translate(25, 110)">
+      <text x="0" y="0" class="icon">🔀</text>
+      <text x="28" y="0" class="stat-label">Total Forks:</text>
+      <text x="260" y="0" class="stat-value">8</text>
+    </g>
+    <g transform="translate(25, 140)">
+      <text x="0" y="0" class="icon">📁</text>
+      <text x="28" y="0" class="stat-label">Public Repos:</text>
+      <text x="260" y="0" class="stat-value">10</text>
+    </g>
+    <g transform="translate(25, 170)">
+      <text x="0" y="0" class="icon">🐛</text>
+      <text x="28" y="0" class="stat-label">Open Issues:</text>
+      <text x="260" y="0" class="stat-value">3</text>
+    </g>
+    <g transform="translate(25, 200)">
+      <text x="0" y="0" class="icon">👥</text>
+      <text x="28" y="0" class="stat-label">Followers:</text>
+      <text x="260" y="0" class="stat-value">25</text>
+    </g>
+</svg>
