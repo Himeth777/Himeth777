@@ -121,6 +121,8 @@ An AI-driven compliance auditing platform that evaluates documents against Sri L
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Himeth777-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himeth777)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Himeth_Udana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himeth-udana-2b55b5235/)
+[![Email](https://img.shields.io/badge/Email-himeth.w@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himeth.w@gmail.com)
 
 *Open to collaborations on AI, ML, and data-intensive projects!*
 
