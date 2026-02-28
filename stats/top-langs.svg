@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="260" viewBox="0 0 400 260">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="344" viewBox="0 0 400 344">
   <defs>
     <style>
       .card-bg { fill: #0D1117; stroke: #70a5fd; stroke-width: 1; rx: 10; }
@@ -7,38 +7,56 @@
       .lang-pct { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9b1d6; text-anchor: end; }
     </style>
   </defs>
-  <rect class="card-bg" x="0.5" y="0.5" width="399" height="259" rx="10"/>
+  <rect class="card-bg" x="0.5" y="0.5" width="399" height="343" rx="10"/>
   <text x="25" y="38" class="title">Most Used Languages</text>
-    <rect x="25" y="55" width="158.20000000000002" height="8" rx="2" fill="#3572A5"/>
-    <rect x="183.20000000000002" y="55" width="105.35" height="8" rx="2" fill="#3178c6"/>
-    <rect x="288.55" y="55" width="43.75" height="8" rx="2" fill="#f1e05a"/>
-    <rect x="332.3" y="55" width="27.3" height="8" rx="2" fill="#b07219"/>
-    <rect x="359.6" y="55" width="15.400000000000002" height="8" rx="2" fill="#e34c26"/>
+    <rect x="25" y="55" width="318.53076055557034" height="8" rx="2" fill="#DA5B0B"/>
+    <rect x="343.53076055557034" y="55" width="24.035195310036734" height="8" rx="2" fill="#3572A5"/>
+    <rect x="367.56595586560707" y="55" width="5.655380309054362" height="8" rx="2" fill="#3178c6"/>
+    <rect x="373.2213361746614" y="55" width="0.7582976734150814" height="8" rx="2" fill="#f1e05a"/>
+    <rect x="373.9796338480765" y="55" width="0.47060147872052677" height="8" rx="2" fill="#563d7c"/>
+    <rect x="374.45023532679704" y="55" width="0.43215990444132096" height="8" rx="2" fill="#b07219"/>
+    <rect x="374.8823952312384" y="55" width="0.09644594258661959" height="8" rx="2" fill="#384d54"/>
+    <rect x="374.978841173825" y="55" width="0.02115882617503144" height="8" rx="2" fill="#e34c26"/>
     
   
     <g transform="translate(25, 85)">
-      <circle cx="6" cy="-4" r="6" fill="#3572A5"/>
-      <text x="18" y="0" class="lang-name">Python</text>
-      <text x="355" y="0" class="lang-pct">45.2%</text>
+      <circle cx="6" cy="-4" r="6" fill="#DA5B0B"/>
+      <text x="18" y="0" class="lang-name">Jupyter Notebook</text>
+      <text x="355" y="0" class="lang-pct">91.0%</text>
     </g>
     <g transform="translate(25, 110)">
-      <circle cx="6" cy="-4" r="6" fill="#3178c6"/>
-      <text x="18" y="0" class="lang-name">TypeScript</text>
-      <text x="355" y="0" class="lang-pct">30.1%</text>
+      <circle cx="6" cy="-4" r="6" fill="#3572A5"/>
+      <text x="18" y="0" class="lang-name">Python</text>
+      <text x="355" y="0" class="lang-pct">6.9%</text>
     </g>
     <g transform="translate(25, 135)">
-      <circle cx="6" cy="-4" r="6" fill="#f1e05a"/>
-      <text x="18" y="0" class="lang-name">JavaScript</text>
-      <text x="355" y="0" class="lang-pct">12.5%</text>
+      <circle cx="6" cy="-4" r="6" fill="#3178c6"/>
+      <text x="18" y="0" class="lang-name">TypeScript</text>
+      <text x="355" y="0" class="lang-pct">1.6%</text>
     </g>
     <g transform="translate(25, 160)">
-      <circle cx="6" cy="-4" r="6" fill="#b07219"/>
-      <text x="18" y="0" class="lang-name">Java</text>
-      <text x="355" y="0" class="lang-pct">7.8%</text>
+      <circle cx="6" cy="-4" r="6" fill="#f1e05a"/>
+      <text x="18" y="0" class="lang-name">JavaScript</text>
+      <text x="355" y="0" class="lang-pct">0.2%</text>
     </g>
     <g transform="translate(25, 185)">
+      <circle cx="6" cy="-4" r="6" fill="#563d7c"/>
+      <text x="18" y="0" class="lang-name">CSS</text>
+      <text x="355" y="0" class="lang-pct">0.1%</text>
+    </g>
+    <g transform="translate(25, 210)">
+      <circle cx="6" cy="-4" r="6" fill="#b07219"/>
+      <text x="18" y="0" class="lang-name">Java</text>
+      <text x="355" y="0" class="lang-pct">0.1%</text>
+    </g>
+    <g transform="translate(25, 235)">
+      <circle cx="6" cy="-4" r="6" fill="#384d54"/>
+      <text x="18" y="0" class="lang-name">Dockerfile</text>
+      <text x="355" y="0" class="lang-pct">0.0%</text>
+    </g>
+    <g transform="translate(25, 260)">
       <circle cx="6" cy="-4" r="6" fill="#e34c26"/>
       <text x="18" y="0" class="lang-name">HTML</text>
-      <text x="355" y="0" class="lang-pct">4.4%</text>
+      <text x="355" y="0" class="lang-pct">0.0%</text>
     </g>
 </svg>
