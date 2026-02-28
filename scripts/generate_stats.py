@@ -38,7 +38,11 @@ THEME = {
     ],
 }
 
+# Languages to exclude from stats
+EXCLUDE_LANGS = {"Jupyter Notebook"}
+
 # Well-known GitHub language colors
+
 LANG_COLORS = {
     "Python": "#3572A5",
     "TypeScript": "#3178c6",
@@ -131,6 +135,8 @@ def fetch_language_stats(repos):
             continue
         langs = api_request(langs_url)
         for lang, byte_count in langs.items():
+            if lang in EXCLUDE_LANGS:
+                continue
             lang_bytes[lang] = lang_bytes.get(lang, 0) + byte_count
 
     total = sum(lang_bytes.values()) or 1
