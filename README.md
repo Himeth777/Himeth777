@@ -106,8 +106,8 @@ An AI-driven compliance auditing platform that evaluates documents against Sri L
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himeth777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himeth777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
+<img height="180em" src="stats/github-stats.svg" alt="GitHub Stats"/>
+<img height="180em" src="stats/top-langs.svg" alt="Top Languages"/>
 
 </div>
 
@@ -132,5 +132,5 @@ An AI-driven compliance auditing platform that evaluates documents against Sri L
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=80&section=footer" width="100%"/>
+  <img src="stats/footer.svg" alt="" width="100%"/>
 </div>
