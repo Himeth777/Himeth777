@@ -106,8 +106,8 @@ An AI-driven compliance auditing platform that evaluates documents against Sri L
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Himeth777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himeth777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himeth777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himeth777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
 
 </div>
 
