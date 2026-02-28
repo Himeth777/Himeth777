@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Himeth;AI+%26+ML+Engineer;Building+intelligent+systems;Turning+data+into+decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Himeth;AI+%26+ML+Enthusiast;Building+intelligent+systems;Turning+data+into+decisions)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,12 +8,9 @@
 
 ## About Me
 
-I'm an **AI/ML Engineer** passionate about building systems that bridge the gap between raw data and intelligent decisions. I work at the intersection of **computer vision**, **reinforcement learning**, and **agentic AI** to create solutions that solve real-world problems.
+I'm a **3rd-year Computer Engineering undergraduate** at the **University of Sri Jayewardenepura** with a strong interest in **Artificial Intelligence**, **Cybersecurity**, and **Full-Stack Development**. I enjoy building secure, scalable systems and solving complex problems at the intersection of technology, data, and trust.
 
-- Building **AI-powered traffic management** systems using computer vision & reinforcement learning
-- Designing **multi-modal AI agents** that reason across SQL, NoSQL, and vector databases simultaneously
-- Exploring the frontier of **agentic AI** with the Model Context Protocol (MCP)
-- Currently levelling up in **LLM orchestration** and **distributed AI systems**
+My core competencies include **Python**, **Agentic AI** application development, **React**, **Next.js**, **TypeScript**, **Web3** technologies, and **Machine Learning**, with hands-on experience in system design, automation, and AI-driven applications.
 
 ---
 
