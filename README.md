@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Himeth+%F0%9F%91%8B;AI+%26+ML+Engineer;Building+intelligent+systems;Turning+data+into+decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Himeth;AI+%26+ML+Engineer;Building+intelligent+systems;Turning+data+into+decisions)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Himeth777&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views"/>
 
@@ -8,18 +8,18 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm an **AI/ML Engineer** passionate about building systems that bridge the gap between raw data and intelligent decisions. I work at the intersection of **computer vision**, **reinforcement learning**, and **agentic AI** to create solutions that solve real-world problems.
 
-- 🚦 Building **AI-powered traffic management** systems using computer vision & reinforcement learning
-- 🔍 Designing **multi-modal AI agents** that reason across SQL, NoSQL, and vector databases simultaneously
-- 🤖 Exploring the frontier of **agentic AI** with the Model Context Protocol (MCP)
-- 🌱 Currently levelling up in **LLM orchestration** and **distributed AI systems**
+- Building **AI-powered traffic management** systems using computer vision & reinforcement learning
+- Designing **multi-modal AI agents** that reason across SQL, NoSQL, and vector databases simultaneously
+- Exploring the frontier of **agentic AI** with the Model Context Protocol (MCP)
+- Currently levelling up in **LLM orchestration** and **distributed AI systems**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -54,41 +54,41 @@ I'm an **AI/ML Engineer** passionate about building systems that bridge the gap 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚦 [Traffic-Simulation](https://github.com/Himeth777/Traffic-Simulation)
-**AI-Powered Smart Traffic Management**
+### [LexGuard](https://github.com/Himeth777/LexGuard)
+**Blockchain-Based Digital Notary**
 
-An end-to-end intelligent traffic system combining **YOLOv5 computer vision** for real-time vehicle detection with **Q-learning reinforcement learning** to optimize traffic light timings dynamically.
+A decentralized application (dApp) that provides immutable proof of existence for legal documents. Leverages **Cardano's metadata architecture** to store SHA-256 cryptographic fingerprints on-chain, eliminating the need for a third-party notary.
 
-- 🎯 Real-time vehicle detection & counting
-- 🧠 Q-learning agent for adaptive signal control
-- 📊 Live analytics dashboard
-- 🎬 Video output & simulation rendering
+- Client-side SHA-256 hashing for legal privacy
+- Cardano metadata anchoring with timestamped transaction receipts
+- Instant document verification against on-chain hash
+- Downloadable Certificate of Notarization with QR code
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square&logo=github&logoColor=black)
-![RL](https://img.shields.io/badge/Reinforcement_Learning-FF6B35?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Cardano](https://img.shields.io/badge/Cardano-0033AD?style=flat-square&logo=cardano&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 [InsightBridge](https://github.com/Himeth777/InsightBridge)
-**Universal AI Database Analyst Agent**
+### [LegalLens](https://github.com/Himeth777/LegalLens)
+**AI Compliance Copilot**
 
-A multi-modal AI system that solves the **"Data Silo" problem** using the Model Context Protocol (MCP). Connects to SQL, NoSQL, and Vector databases simultaneously, enabling real-time **semantic joins** through natural language.
+An AI-driven compliance auditing platform that evaluates documents against Sri Lankan (CBSL, FTRA, LFC) and international (FATF) financial regulations. Uses **Agentic RAG** to retrieve exact legal clauses and reason over them, producing risk scores with full citation trails.
 
-- 🗣️ Natural language → cross-database queries
-- 🔗 Automated "cognitive data joins" across silos
-- 🏗️ Hub-and-spoke MCP architecture
-- 🔒 Read-only, non-destructive data exploration
+- Agentic RAG pipeline over indexed legal documents
+- PII redaction before analysis
+- Structured risk scoring with clause-level citations
+- Streaming clarification chat alongside audit results
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-FF6B6B?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 
 </td>
@@ -97,7 +97,7 @@ A multi-modal AI system that solves the **"Data Silo" problem** using the Model 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -114,7 +114,7 @@ A multi-modal AI system that solves the **"Data Silo" problem** using the Model 
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
