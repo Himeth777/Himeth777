@@ -130,6 +130,8 @@ def fetch_language_stats(repos):
     for repo in repos:
         if repo.get("fork"):
             continue
+        if repo.get("language") in EXCLUDE_LANGS:
+            continue
         langs_url = repo.get("languages_url")
         if not langs_url:
             continue
