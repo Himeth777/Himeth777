@@ -9,44 +9,44 @@
   </defs>
   <rect class="card-bg" x="0.5" y="0.5" width="399" height="315" rx="10"/>
   <text x="25" y="38" class="title">Most Used Languages</text>
-    <rect x="25" y="55" width="267.15153591943175" height="8" rx="2" fill="#3572A5"/>
-    <rect x="292.15153591943175" y="55" width="63.026202686770006" height="8" rx="2" fill="#3178c6"/>
-    <rect x="355.17773860620173" y="55" width="8.450823861491372" height="8" rx="2" fill="#f1e05a"/>
-    <rect x="363.6285624676931" y="55" width="5.244602937674602" height="8" rx="2" fill="#563d7c"/>
-    <rect x="368.8731654053677" y="55" width="4.816192058172694" height="8" rx="2" fill="#b07219"/>
-    <rect x="373.6893574635404" y="55" width="1.0748386834478474" height="8" rx="2" fill="#384d54"/>
-    <rect x="374.76419614698824" y="55" width="0.2358038530117263" height="8" rx="2" fill="#e34c26"/>
+    <rect x="25" y="55" width="250.4988982279283" height="8" rx="2" fill="#3572A5"/>
+    <rect x="275.4988982279283" y="55" width="80.72301318168023" height="8" rx="2" fill="#3178c6"/>
+    <rect x="356.22191140960854" y="55" width="7.972871336772797" height="8" rx="2" fill="#f1e05a"/>
+    <rect x="364.19478274638135" y="55" width="4.989048253658279" height="8" rx="2" fill="#563d7c"/>
+    <rect x="369.1838310000396" y="55" width="4.376674099779645" height="8" rx="2" fill="#b07219"/>
+    <rect x="373.56050509981924" y="55" width="1.225210128386135" height="8" rx="2" fill="#384d54"/>
+    <rect x="374.7857152282054" y="55" width="0.21428477179463498" height="8" rx="2" fill="#e34c26"/>
     
   
     <g transform="translate(25, 85)">
       <circle cx="6" cy="-4" r="6" fill="#3572A5"/>
       <text x="18" y="0" class="lang-name">Python</text>
-      <text x="355" y="0" class="lang-pct">76.3%</text>
+      <text x="355" y="0" class="lang-pct">71.6%</text>
     </g>
     <g transform="translate(25, 110)">
       <circle cx="6" cy="-4" r="6" fill="#3178c6"/>
       <text x="18" y="0" class="lang-name">TypeScript</text>
-      <text x="355" y="0" class="lang-pct">18.0%</text>
+      <text x="355" y="0" class="lang-pct">23.1%</text>
     </g>
     <g transform="translate(25, 135)">
       <circle cx="6" cy="-4" r="6" fill="#f1e05a"/>
       <text x="18" y="0" class="lang-name">JavaScript</text>
-      <text x="355" y="0" class="lang-pct">2.4%</text>
+      <text x="355" y="0" class="lang-pct">2.3%</text>
     </g>
     <g transform="translate(25, 160)">
       <circle cx="6" cy="-4" r="6" fill="#563d7c"/>
       <text x="18" y="0" class="lang-name">CSS</text>
-      <text x="355" y="0" class="lang-pct">1.5%</text>
+      <text x="355" y="0" class="lang-pct">1.4%</text>
     </g>
     <g transform="translate(25, 185)">
       <circle cx="6" cy="-4" r="6" fill="#b07219"/>
       <text x="18" y="0" class="lang-name">Java</text>
-      <text x="355" y="0" class="lang-pct">1.4%</text>
+      <text x="355" y="0" class="lang-pct">1.3%</text>
     </g>
     <g transform="translate(25, 210)">
       <circle cx="6" cy="-4" r="6" fill="#384d54"/>
       <text x="18" y="0" class="lang-name">Dockerfile</text>
-      <text x="355" y="0" class="lang-pct">0.3%</text>
+      <text x="355" y="0" class="lang-pct">0.4%</text>
     </g>
     <g transform="translate(25, 235)">
       <circle cx="6" cy="-4" r="6" fill="#e34c26"/>
