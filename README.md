@@ -51,6 +51,7 @@ My core competencies include **Python**, **Agentic AI** application development,
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-FF6B6B?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 </div>
 
@@ -93,6 +94,29 @@ An AI-driven compliance auditing platform that evaluates documents against Sri L
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Aura](https://github.com/Himeth777/Aura)
+**Multimodal Deep Dive Lecture Assistant**
+
+A Retrieval-Augmented Generation (RAG) platform that indexes and queries complex educational videos by synchronizing audio transcripts and visual frame descriptions into a unified vector space. Upload videos or paste YouTube URLs and chat with the content using natural language.
+
+- Multimodal RAG combining audio transcripts and visual frame analysis
+- Automatic speech-to-text with Groq Whisper v3
+- Frame extraction with AI-generated visual descriptions
+- Natural language Q&A with exact clickable timestamps
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
