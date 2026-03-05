@@ -25,7 +25,7 @@
     <g transform="translate(25, 140)">
       <text x="0" y="0" class="icon">📁</text>
       <text x="28" y="0" class="stat-label">Public Repos:</text>
-      <text x="260" y="0" class="stat-value">10</text>
+      <text x="260" y="0" class="stat-value">9</text>
     </g>
     <g transform="translate(25, 170)">
       <text x="0" y="0" class="icon">🐛</text>
