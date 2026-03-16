@@ -15,7 +15,7 @@
     <g transform="translate(25, 80)">
       <text x="0" y="0" class="icon">⭐</text>
       <text x="28" y="0" class="stat-label">Total Stars:</text>
-      <text x="260" y="0" class="stat-value">1</text>
+      <text x="260" y="0" class="stat-value">2</text>
     </g>
     <g transform="translate(25, 110)">
       <text x="0" y="0" class="icon">🔀</text>
