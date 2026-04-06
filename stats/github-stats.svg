@@ -35,6 +35,6 @@
     <g transform="translate(25, 200)">
       <text x="0" y="0" class="icon">👥</text>
       <text x="28" y="0" class="stat-label">Followers:</text>
-      <text x="260" y="0" class="stat-value">8</text>
+      <text x="260" y="0" class="stat-value">9</text>
     </g>
 </svg>
